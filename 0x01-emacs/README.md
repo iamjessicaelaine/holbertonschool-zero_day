@@ -1,0 +1,1 @@
+This project is about Emacs and using it as our text editor. This is the directory for the answers to tasks in project 0x01.
